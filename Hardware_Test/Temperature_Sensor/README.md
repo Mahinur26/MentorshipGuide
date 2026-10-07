@@ -9,3 +9,9 @@ Link to Cirkit Diagram is [here](https://app.cirkitdesigner.com/project/e00f6cd6
 
 ## Installing the DHT11 library on Arduino IDE
 
+Click on the Library Manager
+<img width="1507" height="864" alt="Screenshot 2026-10-07 at 12 01 09 PM" src="https://github.com/user-attachments/assets/7fcf6a5c-45bd-43d1-a464-5f3b493faf6c" />
+
+Search up `DHT sensor library` and install this one
+
+<img width="276" height="809" alt="Screenshot 2026-10-07 at 12 04 48 PM" src="https://github.com/user-attachments/assets/5e8706b6-0cdc-4aab-b13c-07d326ce07b8" />
