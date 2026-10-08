@@ -51,4 +51,4 @@ The Arduino IDE is only used for firmware code on the ESP32, but any other featu
 
 Once your setup is done, use these guides to test each component on its own. I'll be adding on to this list as the mentorship program progresses
 
-- **→ [Temperature/Humidity Sensor (DHT11)](Hardware_Test/Temperature_Sensor/README.md)**
+- **→ [Temperature/Humidity Sensor (DHT11)](Hardware_Test/Temp_Humidty_Sensor/README.md)**
