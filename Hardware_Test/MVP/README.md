@@ -12,6 +12,11 @@ Install these from the Library Manager in the Arduino IDE:
 
 ## Wiring
 
+Circuit Diagram [here](https://app.cirkitdesigner.com/project/14553905-3c2d-4010-ac0b-152319eb3408): 
+
+<img width="1866" height="1092" alt="image" src="https://github.com/user-attachments/assets/b219b853-5a82-435b-962a-85c6ba717946" />
+
+
 The DHT11 and OLED use the same pins as the `OLED+DHT/screen.ino` test.
 
 | Part | Sensor pin | ESP32 pin |
