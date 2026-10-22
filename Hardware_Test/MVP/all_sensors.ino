@@ -73,6 +73,7 @@ int readSoilRaw() {
 // Converts a raw reading to 0-100 %, using the calibration values above
 int soilRawToPercent(int raw) {
   int percent = map(raw, SOIL_DRY_RAW, SOIL_WET_RAW, 0, 100);
+  // Constrain the result to 0-100 % in case the reading is outside the calibration range
   return constrain(percent, 0, 100);
 }
 
